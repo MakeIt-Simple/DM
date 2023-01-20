@@ -7,6 +7,8 @@ This repository will contain study material for DM
 |1| 1,2| JHB |[link](./DM_WEEK_1,2_Prof.JHB.pdf)|Shruti Bhalodia
 |1|SESSIONAL 1|JHB |[Link](./DM_SESSIONAL_1_Prof.JB.pdf) | Shruti Bhalodia
 |1|SESSIONAL 1|AAM |[Link](./DM_SESSIONAL_1_Prof.AAM.pdf) | Shruti Bhalodia
+|2| 1,2| JHB |[Link](./DM_SESSION_2_WEEK_1,2_PROF.JHB.pdf) | Shruti Bhalodia
+|2| 1,2| AAM |[Link](./DM_SESSION_2_WEEK_1,2_PROF.AAM.pdf) | Shruti Bhalodia
 
 
 ## Special Thanks 🙏
