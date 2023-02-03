@@ -9,6 +9,8 @@ This repository will contain study material for DM
 |1|SESSIONAL 1|AAM |[Link](./DM_SESSIONAL_1_Prof.AAM.pdf) | Shruti Bhalodia
 |2| 1,2| JHB |[Link](./DM_SESSION_2_WEEK_1,2_PROF.JHB.pdf) | Shruti Bhalodia
 |2| 1,2| AAM |[Link](./DM_SESSION_2_WEEK_1,2_PROF.AAM.pdf) | Shruti Bhalodia
+|2| 3,4| JHB |[Link](./DM_SESSIONAL_2_WEEK_3,4_PROF.JHB.pdf) | Shruti Bhalodia
+|2| 3,4| AAM |[Link](./DM_SESSIONAL_2_WEEK_3,4_PROF.AAM.pdf) | Shruti Bhalodia
 
 
 ## Special Thanks 🙏
